@@ -61,7 +61,7 @@
         <mxCell id="t7aD1BaS4rzAoNWGzweR-44" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Multinomial logit model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="333" y="255" width="67" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="t7aD1BaS4rzAoNWGzweR-46" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;参与抗肿瘤药物早期临床研究的决策偏好&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-46" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;参与抗肿瘤药物早期临床研究的决策偏好研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="333" y="325" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t7aD1BaS4rzAoNWGzweR-47" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;参与抗肿瘤药物早期临床研究的收益-风险权衡与偏好的影响因素作用机制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
@@ -93,6 +93,15 @@
             <mxPoint x="549.5" y="295" as="sourcePoint" />
             <mxPoint x="551" y="325" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="682.5" y="295" as="sourcePoint" />
+            <mxPoint x="684" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-63" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;遗传算法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="255" width="67" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
