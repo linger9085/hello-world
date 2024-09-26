@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="第 1 页" id="NxyD-Y_S-uQf48mfFSpp">
-    <mxGraphModel dx="794" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,10 +47,52 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t7aD1BaS4rzAoNWGzweR-39" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="153" width="35" height="76" as="geometry" />
+          <mxGeometry x="100" y="179" width="35" height="76" as="geometry" />
         </mxCell>
         <mxCell id="t7aD1BaS4rzAoNWGzweR-40" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;构建基于累积前景理论和离散选择实验的参与抗肿瘤药物早期临床试验选择行为模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="10" y="240" width="250" height="60" as="geometry" />
+          <mxGeometry x="20" y="295" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365.5" y="295" as="sourcePoint" />
+            <mxPoint x="367" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-44" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Multinomial logit model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="333" y="255" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-46" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;参与抗肿瘤药物早期临床研究的收益-风险权衡与偏好的影响因素&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="333" y="325" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-47" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;参与抗肿瘤药物早期临床研究的收益-风险权衡与偏好的影响因素作用机制&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="660" y="335" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="271" y="325" as="sourcePoint" />
+            <mxPoint x="321" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-53" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;参与抗肿瘤药物早期临床试验的风险态度估计&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="325" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-54" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Mixed logit model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="406" y="255" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="436.5" y="296" as="sourcePoint" />
+            <mxPoint x="438" y="326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-61" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Mixed logit model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="490" y="255" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t7aD1BaS4rzAoNWGzweR-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515.5" y="295" as="sourcePoint" />
+            <mxPoint x="517" y="325" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
