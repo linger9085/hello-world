@@ -7,13 +7,13 @@
         <mxCell id="u6-TTfcs637RObTHiSWH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="370" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="u6-TTfcs637RObTHiSWH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6-TTfcs637RObTHiSWH-2" value="参数编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="442" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="u6-TTfcs637RObTHiSWH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="370" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="u6-TTfcs637RObTHiSWH-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6-TTfcs637RObTHiSWH-4" value="计算适应度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="522" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="u6-TTfcs637RObTHiSWH-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -22,10 +22,10 @@
             <mxPoint x="160" y="444" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u6-TTfcs637RObTHiSWH-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6-TTfcs637RObTHiSWH-5" value="初始化总体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="370" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="u6-TTfcs637RObTHiSWH-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6-TTfcs637RObTHiSWH-6" value="选择运算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="600" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="u6-TTfcs637RObTHiSWH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -40,20 +40,35 @@
             <mxPoint x="159" y="601" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u6-TTfcs637RObTHiSWH-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6-TTfcs637RObTHiSWH-13" value="交叉运算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="680" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="u6-TTfcs637RObTHiSWH-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6-TTfcs637RObTHiSWH-15" value="变异运算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="760" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="u6-TTfcs637RObTHiSWH-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6-TTfcs637RObTHiSWH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6-TTfcs637RObTHiSWH-16" target="u6-TTfcs637RObTHiSWH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6-TTfcs637RObTHiSWH-16" value="产生下一代种群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="840" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="u6-TTfcs637RObTHiSWH-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="u6-TTfcs637RObTHiSWH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u6-TTfcs637RObTHiSWH-17" target="u6-TTfcs637RObTHiSWH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u6-TTfcs637RObTHiSWH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u6-TTfcs637RObTHiSWH-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="354" y="510" />
+              <mxPoint x="161" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6-TTfcs637RObTHiSWH-17" value="是否达到终止标准" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="620" width="120" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="u6-TTfcs637RObTHiSWH-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="620" width="120" height="95" as="geometry" />
+        <mxCell id="u6-TTfcs637RObTHiSWH-19" value="输出最佳方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="489" y="620" width="120" height="95" as="geometry" />
         </mxCell>
         <mxCell id="u6-TTfcs637RObTHiSWH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -66,6 +81,18 @@
             <mxPoint x="159.5" y="725" as="sourcePoint" />
             <mxPoint x="159.5" y="760" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="u6-TTfcs637RObTHiSWH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159.5" y="806" as="sourcePoint" />
+            <mxPoint x="159.5" y="841" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u6-TTfcs637RObTHiSWH-26" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="538" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u6-TTfcs637RObTHiSWH-27" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="427" y="628" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
